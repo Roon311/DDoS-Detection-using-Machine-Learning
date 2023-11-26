@@ -1,1 +1,1 @@
-# -DDoS-Detection-and-Mitigation-using-Machine-Learning
+# DDoS Detection and Mitigation using Machine Learning
