@@ -1,6 +1,4 @@
-# DDoS Detection and Mitigation using Machine Learning
-
-# DDoS Attack Detection Using Machine Learning
+# DDoS Detection using Machine Learning
 
 ## Introduction
 
