@@ -31,15 +31,21 @@ A Decision Tree model was trained and evaluated for its accuracy in classifying 
 ### Random Forest Classifier
 
 A Random Forest model was implemented to enhance predictive accuracy. Precision-Recall and F1 Score curves demonstrated the model's balanced trade-off between precision and recall.
-![download](https://github.com/Roon311/DDoS-Detection-and-Mitigation-using-Machine-Learning/assets/75309751/e512c3dc-4816-4967-b5fd-86a9149c0bf1)
-![download](https://github.com/Roon311/DDoS-Detection-and-Mitigation-using-Machine-Learning/assets/75309751/bb782150-61ab-4236-a8a6-b373bcf8a7e5)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Roon311/DDoS-Detection-and-Mitigation-using-Machine-Learning/assets/75309751/e512c3dc-4816-4967-b5fd-86a9149c0bf1" style="width: 40%;">
+    <img src="https://github.com/Roon311/DDoS-Detection-and-Mitigation-using-Machine-Learning/assets/75309751/bb782150-61ab-4236-a8a6-b373bcf8a7e5" style="width: 40%;">
+</div>
+
 
 ### XGBoost Classifier
 
 XGBoost, an efficient and scalable ML algorithm, was employed to further improve model performance. Feature importance was visualized, and ROC-AUC curve illustrated the model's ability to discriminate between benign and DDoS instances.
 
-![download](https://github.com/Roon311/DDoS-Detection-and-Mitigation-using-Machine-Learning/assets/75309751/1a636a4f-55c1-441a-b3ea-1572ca5e56ba)
-![download](https://github.com/Roon311/DDoS-Detection-and-Mitigation-using-Machine-Learning/assets/75309751/4d7767fb-8b39-488f-9b19-107a4d6d4003)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Roon311/DDoS-Detection-and-Mitigation-using-Machine-Learning/assets/75309751/1a636a4f-55c1-441a-b3ea-1572ca5e56ba" style="width: 41%;">
+    <img src="https://github.com/Roon311/DDoS-Detection-and-Mitigation-using-Machine-Learning/assets/75309751/4d7767fb-8b39-488f-9b19-107a4d6d4003" style="width: 40%;">
+</div>
+
 
 ## Conclusion
 
